@@ -2,10 +2,7 @@ import cv2
 import Image
 import time
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
-try
-   from cStringIO import StringIO
-except
-   from StringIO import StringIO
+from StringIO import StringIO
    
    
 class WebHandler(BaseHTTPRequestHandler):
