@@ -1,2 +1,2 @@
 # SimpleWebCamStreamer
-Simple python code for web camera streaming over HTTP Server.
+Simple python 2.7 code for web camera streaming over HTTP Server.
